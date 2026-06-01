@@ -3,10 +3,9 @@
 #include <string>
 using namespace std;
 
-
-    //deklarasi variabel baris dan NamaFile
-    string baris, NamaFile;
-
+int main()
+{
+    
     //membuat input untuk menangkap nama file
     cout << "Masukkan nama file : ";
     cin >> NamaFile;
